@@ -1,6 +1,6 @@
 # Haley Marconi
 # CS 21 Fall 2018
-# It's All About The Base
+# Attached is my final project from my CS class taken in the fall of 2018.
 
 # This file contains three functions; prepare_words(in_string),
 # word_to_base4(new_string), and base10_to_words(num). First, it takes an
